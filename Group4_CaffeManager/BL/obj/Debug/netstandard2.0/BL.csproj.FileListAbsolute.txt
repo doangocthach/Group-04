@@ -1,0 +1,14 @@
+C:\Users\goldk\Desktop\Group5\Group5_project\BL\bin\Debug\netstandard2.0\BL.deps.json
+C:\Users\goldk\Desktop\Group5\Group5_project\BL\bin\Debug\netstandard2.0\BL.dll
+C:\Users\goldk\Desktop\Group5\Group5_project\BL\bin\Debug\netstandard2.0\BL.pdb
+C:\Users\goldk\Desktop\Group5\Group5_project\BL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\goldk\Desktop\Group5\Group5_project\BL\bin\Debug\netstandard2.0\Persitence.dll
+C:\Users\goldk\Desktop\Group5\Group5_project\BL\bin\Debug\netstandard2.0\Persitence.pdb
+C:\Users\goldk\Desktop\Group5\Group5_project\BL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\goldk\Desktop\Group5\Group5_project\BL\obj\Debug\netstandard2.0\BL.csprojAssemblyReference.cache
+C:\Users\goldk\Desktop\Group5\Group5_project\BL\obj\Debug\netstandard2.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\goldk\Desktop\Group5\Group5_project\BL\obj\Debug\netstandard2.0\BL.AssemblyInfoInputs.cache
+C:\Users\goldk\Desktop\Group5\Group5_project\BL\obj\Debug\netstandard2.0\BL.AssemblyInfo.cs
+C:\Users\goldk\Desktop\Group5\Group5_project\BL\obj\Debug\netstandard2.0\BL.csproj.CopyComplete
+C:\Users\goldk\Desktop\Group5\Group5_project\BL\obj\Debug\netstandard2.0\BL.dll
+C:\Users\goldk\Desktop\Group5\Group5_project\BL\obj\Debug\netstandard2.0\BL.pdb
